@@ -8,4 +8,3 @@ beloning = cijferLijst * 30
 overzicht = 'Mijn cijfers ( met een gemiddelde van een', int(gemiddelde), ') leveren een beloning van ', int(beloning), 'op!'
 
 print(overzicht)
-.
